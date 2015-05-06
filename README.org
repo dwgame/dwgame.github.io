@@ -1,0 +1,15 @@
+#+OPTIONS: num:nil
+#+TITLE: DW Game
+  #+BEGIN_HTML
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet">
+  #+END_HTML
+
+* World notes
+** [[file:world.org::*Places][Places]]
+** [[file:world.org::*Places][Places]]
+** [[file:world.org::*Gods][Gods]]
+
+* Session notes
+** [[session1.org][Session one]]
